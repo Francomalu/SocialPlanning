@@ -1,0 +1,13 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+:root {
+  --main-gray: #98a5b3;
+  --secondary-gray: #606f80;
+  --third-gray: #606a80;
+}
+
+body {
+  background-color: #f7f9fa;
+}
